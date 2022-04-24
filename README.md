@@ -1,4 +1,4 @@
-## Vue2 + Element-UI 通用后台管理系统
+## vue2 + element-ui 通用后台管理系统
 
 1. 教程来自B站
    
