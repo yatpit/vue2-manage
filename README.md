@@ -1,24 +1,14 @@
 # vue-manage
 
-## Project setup
-```
-yarn install
-```
+Vue2 + Element-UI 通用后台管理系统
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+教程来自B站
 
-### Compiles and minifies for production
-```
-yarn build
-```
+https://www.bilibili.com/video/BV1QU4y1E7qo?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click
 
-### Lints and fixes files
-```
-yarn lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+注意：
+
+Eslint提示有一个小bug，但本人不会修改
+
+输入 http://localhost:8080/ 可正常打开，功能正常
